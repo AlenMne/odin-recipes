@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: brown;
+}
+.menu {
+    list-style: none;
+}
+ol {
+    list-style: decimal;
+    color: blue;
+    list-style-position: inside;
+}
+.ingredients {
+    list-style: disc;
+    color: red;
+    list-style-position: inside;
+}
